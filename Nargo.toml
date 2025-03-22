@@ -1,6 +1,4 @@
-[package]
-name = "secret_ballot_circuits"
-type = "bin"
-authors = [""]
-
-[dependencies]
+[workspace]
+members = [
+    "circuits/vote_verifier",
+]
