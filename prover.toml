@@ -1,0 +1,5 @@
+voter_address = "0x052b"    
+
+vote = "01234567" #0x3031323334353637
+
+commitment = "0x22a03584a33f4906bacbe68ca86905f0f6e16b81114bbbe0315c7d359544a45c" 
