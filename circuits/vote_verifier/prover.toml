@@ -1,5 +1,13 @@
 voter_address = "0x052b"    
-
 vote = "01234567" #0x3031323334353637
+commitment = "0x22a03584a33f4906bacbe68ca86905f0f6e16b81114bbbe0315c7d359544a45c"
+curent_hash = "0x0" # Initial current hash is 0
+# Updated hash (hash of current_hash and commitment)
+updated_hash = "0x199b8856d2a2f31f2ad1ebd3eefb00a8222a3d941624e15174bc5225eb052248"
 
-commitment = "0x22a03584a33f4906bacbe68ca86905f0f6e16b81114bbbe0315c7d359544a45c" 
+#voter_address = "0x11d7"    
+#vote = "10000000" #0x3031323334353637
+#commitment = "0x14815748ba995cee7c297285f31f28260457d41992ad183ab4ae58f0efb25488"
+#curent_hash = "0x199b8856d2a2f31f2ad1ebd3eefb00a8222a3d941624e15174bc5225eb052248" # Initial current hash is 0
+# Updated hash (hash of current_hash and commitment)
+#updated_hash = "0x2dc0d1ecf8f771faf9b24494916e1e0c4c6ecfd5cc649290f19349d1430e37b1"
