@@ -1,0 +1,6 @@
+[package]
+name = "tally_verifier"
+type = "bin"
+authors = [""]
+
+[dependencies]
